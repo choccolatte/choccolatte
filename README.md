@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @choccolatte
+- 👋 Hi, I’m Aman - @choccolatte
 - 👀 I’m interested in Software/App Development.
 - 🌱 I’m currently learning JS/React/Python.
 - 💞️ I’m looking to collaborate on Applications & Software.
