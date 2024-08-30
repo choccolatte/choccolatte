@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman - @choccolatte
-- 👀 I’m interested in Software/App Development.
-- 🌱 I’m currently learning JS/React/Python.
+- 👀 Currently, I’m studying Software Development/Engineering and self-studying Computer Science.
+- 🌱 I’m currently working with JS/SQL/C/Python.
 - 💞️ I’m looking to collaborate on Applications & Software.
 - 📫 How to reach me. Just message or mail me.
 
