@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman - @choccolatte
-- 👀 Currently, I’m self-studying Software Engineering and Computer Science.
+- 👀 Currently, I’m teaching myself Software Engineering and Computer Science.
 - 🌱 I’m currently working with JS/SQL/C/Python/GOlang to build cool projects.
 - 💞️ I’m looking to collaborate on Applications & Software.
 - 📫 How to reach me. Just message or mail me.
