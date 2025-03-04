@@ -7,8 +7,8 @@
 
 ## Working Projects:
 
-- **(One Click Weather App)[oneclickweatherwebapp.netlify.app]**
-- **(One Click React Counter)[oneclickcounter.netlify.app]**
+- **[One Click Weather App](oneclickweatherwebapp.netlify.app)**
+- **[One Click React Counter](oneclickcounter.netlify.app)**
 
 <!---
 choccolatte/choccolatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
