@@ -1,4 +1,4 @@
-# Info about me -
+# About me:
 - 👋 Hi, I’m Aman - @choccolatte
 - 👀 Currently, I’m teaching myself Software Development and Computer Science.
 - 🌱 I’m currently working with JS/SQL/C/Python/GOlang to build cool projects.
