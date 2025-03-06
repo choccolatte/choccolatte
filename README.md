@@ -1,11 +1,11 @@
 # About me:
 - 👋 Hi, I’m Aman - @choccolatte
 - 👀 Currently, I’m teaching myself Software Development and Computer Science.
-- 🌱 I’m currently working with JS/SQL/C/Python/GOlang to build cool projects.
-- 💞️ I’m looking to collaborate on Applications & Software.
-- 📫 How to reach me. Just message or mail me.
+- 🌱 I’m currently working with JS/React/SQL/C/Python/GOlang to build cool projects.
+- 💞️ I’m looking to collaborate on and build Applications & Software.
+- 📫 Reach me at **[X](https://x.com/theamanksingh)**.
 
-## Working Projects:
+## Projects:
 
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
