@@ -9,6 +9,7 @@
 
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
+- **[Unique Password Generator](https://1clickuniquepasswordgenerator.netlify.app/)**
 <!---
 choccolatte/choccolatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
