@@ -12,7 +12,6 @@
 - **[Pet Perfect Bengals](https://petperfectbengals.com/)**
 - **[Gadget Bridge](https://www.gadgetbridge.com/author/aman-singh/)**
 - **[Chandigarh First](https://chandigarhfirst.com/author/aman/)**
-- 
 
 ## Personal Projects
 
