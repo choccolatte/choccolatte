@@ -7,7 +7,7 @@
 
 ## Work:
 
-- **[Pickleball's Documentation](https://pickleballdocumentation.netlify.app/)**
+- **[Pickleball Documentation](https://pickleballdocumentation.netlify.app/)**
 - **[HP Pay API Documentation & User Guide](https://hppay.in/Home/ProgramDetails)**
 - **[Pet Perfect Bengals](https://petperfectbengals.com/)**
 - **[Gadget Bridge](https://www.gadgetbridge.com/author/aman-singh/)**
@@ -16,6 +16,7 @@
 ## Personal Projects
 
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
+- **[Calculator](ioscalculatorproj.netlify.app)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
 - **[Unique Password Generator](https://1clickuniquepasswordgenerator.netlify.app/)**
 
