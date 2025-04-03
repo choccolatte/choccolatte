@@ -21,9 +21,10 @@
 - **[Gadget Bridge](https://www.gadgetbridge.com/author/aman-singh/)**
 - **[Chandigarh First](https://chandigarhfirst.com/author/aman/)**
 
-## Personal Projects
+## Projects Showcase
 
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
+- **[WordUp Game](https://wordupgame.netlify.app/)**
 - **[Calculator](ioscalculatorproj.netlify.app)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
 - **[Unique Password Generator](https://1clickuniquepasswordgenerator.netlify.app/)**
