@@ -24,6 +24,7 @@
 ## Projects Showcase
 
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
+- **[Todo Web App](https://quickertodo.netlify.app)**
 - **[WordUp Game](https://wordupgame.netlify.app/)**
 - **[Calculator](ioscalculatorproj.netlify.app)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
