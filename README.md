@@ -26,7 +26,7 @@
 - **[One Click Weather App](https://oneclickweatherwebapp.netlify.app/)**
 - **[Todo Web App](https://quickertodo.netlify.app)**
 - **[WordUp Game](https://wordupgame.netlify.app/)**
-- **[Calculator](ioscalculatorproj.netlify.app)**
+- **[Calculator](https://ioscalculatorproj.netlify.app)**
 - **[One Click React Counter](https://oneclickcounter.netlify.app/)**
 - **[Unique Password Generator](https://1clickuniquepasswordgenerator.netlify.app/)**
 - **[Good Doggos - Dog API](https://gooddoggos.netlify.app/)**
