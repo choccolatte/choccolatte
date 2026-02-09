@@ -5,7 +5,7 @@
 
 - ✍️ I'm a Senior Technical Writer by profession.
 - 👀 Currently, I’m teaching myself Software Development and Computer Science.
-- 🌱 I’m currently working with JS/React/SQL/C/Python/GOlang to build cool projects.
+- 🌱 I’m currently working with C#/JS/React/SQL/C/Python/GOlang to build cool projects.
 - 💞️ I’m looking to collaborate on and build Applications & Software.
 - 📫 Reach me at **[X](https://x.com/theamanksingh)**.
 
